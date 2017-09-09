@@ -24,10 +24,10 @@ author:  # change following line to your infomation.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa-reddit-alien
-    - name: icon-raspberrypi
+    - name: fa-gamepad
   skill_icon2:
     - name: fa-empire
-    - name: icon-aws
+    - name: fa-windows
   desc: Hello. Call me Tauber. Welcome.  # Describe yourself.
 
 # comment
