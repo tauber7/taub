@@ -18,4 +18,11 @@
   i18n: Tauber
   url: https://mtauberjr.xyz
   img: /static/assets/img/landing/google.png
-  desc: Check him out! 
+  desc: Check him out!
+  
+- name: VPN.ht
+  i18n: Tauber
+  url: https://vpn.ht/
+  img: /static/assets/img/landing/vpnht.png
+  desc: Recommended VPN.
+  
