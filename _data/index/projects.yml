@@ -26,3 +26,9 @@
   img: /static/assets/img/landing/vpnht.png
   desc: Recommended VPN.
   
+- name: IPVanish
+  i18n: Tauber
+  url: https://www.ipvanish.com/
+  img: /static/assets/img/landing/ipvanish.png
+  desc: Recommended VPN.
+  
