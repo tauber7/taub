@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-empire
     - name: fa-windows
-  desc: Hello. Call me Tauber. Welcome.  # Describe yourself.
+  desc: Welcome. I hope you learn a little about me.  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -48,11 +48,11 @@ author:  # change following line to your infomation.
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
-index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
+index_carousel: off  # index page carousel switch
+blog_carousel: off  # blog page carousel switch
 
 # scss
 sass:
