@@ -32,3 +32,9 @@
   img: /static/assets/img/landing/ipvanish.png
   desc: Recommended VPN.
   
+- name: pCloud Online Storage
+  i18n: Tauber
+  url: https://my.pcloud.com/publink/show?code=kZSblaZR1LUcqp1UrVxpOeI7hsSH0BVenBV
+  img: /static/assets/img/landing/pcloud.png
+  desc: Contains ISOs, RegHacks, etc.
+  
