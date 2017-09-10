@@ -8,12 +8,11 @@
   img: /static/assets/img/landing/jekyll.png
   desc: Check out my Raspberry Pi Arcade Cabinet.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Ninite
+  i18n: Tauber
+  url: https://ninite.com/
+  img: /static/assets/img/landing/ninite.png
+  desc: Bulk program installer. Great for new images!
 
 - name: Michael Tauber JR
   i18n: Tauber
