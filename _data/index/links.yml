@@ -1,18 +1,18 @@
 # links section data
+#- last_name: Matt
+#  first_name: Tauber
+#  desc: Contact me!
+#  website: tauber.xyz
+#  email: matthewtauber@gmail.com
+
 - last_name: Matt
   first_name: Tauber
   desc: Contact me!
-  website: tauber.xyz
+  website: www.tauber.xyz
   email: matthewtauber@gmail.com
 
-#- last_name: Donate
-#  first_name: Jalpc
-#  desc: Support Jalpc
-#  website: http://www.jarrekk.com/donate/
-#  email: me@jarrekk.com
-
-- last_name: Hosted by GitHub!
-  first_name:
-  desc: Thank you GitHub and Jekyll!
-  website: https://github.com
-  email: 
+#- last_name: Hosted by GitHub!
+#  first_name:
+#  desc: Thank you GitHub and Jekyll!
+#  website: https://github.com
+#  email: 
