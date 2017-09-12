@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Welcome to my first blog entry"
+date:   2017-01-31
+desc: "Welcome to my first blog entry"
+keywords: "Tauber,first,blog,website"
+categories: [HTML]
+tags: [tauber,blog]
+icon: icon-html
+---
+
+Hello. Welcome to my first blog entry.
+
+I do not have current plans to utilize this, however may create blogs for each project I create.
+
+TBD.
+
+
+Thank you.
